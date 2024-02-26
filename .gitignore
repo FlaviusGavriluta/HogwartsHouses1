@@ -1,6 +1,7 @@
 .*
 !.gitignore
 !.gitkeep
+.idea/
 
 *.iml
 *.class
